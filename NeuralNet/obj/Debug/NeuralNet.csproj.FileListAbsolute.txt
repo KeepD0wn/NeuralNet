@@ -1,0 +1,7 @@
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\bin\Debug\Health.csv
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe.config
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.csprojAssemblyReference.cache
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\gvozd\source\repos\NeuralNet\NeuralNet\obj\Debug\NeuralNet.pdb
